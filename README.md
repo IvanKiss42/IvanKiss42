@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to build useful and optimized API's
 - 💞️ I’m looking to collaborate on Django based projects or some telegram bots connecting with API
 - 📫 You can reach me via ivankislyakovdevelop@gmail.com or telegram (@VanoKis)
-- ⚡ Fun fact: I have a diverse background in chemistry :alembic:
+- ⚡ Interesting fact: I have a diverse background in chemistry :alembic:
 
 <!---
 IvanKiss42/IvanKiss42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
